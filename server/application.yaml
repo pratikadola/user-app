@@ -1,0 +1,11 @@
+server:
+  host: 127.0.0.1
+  port: 8089
+  timeout: 
+    server: 30
+database:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: pass
+  dbname: user_assignment
